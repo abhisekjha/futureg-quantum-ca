@@ -1,6 +1,4 @@
-# Secure Messaging with Kyber, Dilithium, and AES-256
-
-This project demonstrates how to securely encrypt packets of messages using AES-256 encryption. Keys are securely exchanged using Kyber, a post-quantum cryptographic algorithm, and authenticated using Dilithium ensuring protection against both classical and quantum attacks.
+A Post-Quantum Cryptography-based Certificate Authority designed for securing 5G and FutureG networks. Implements Kyber for key encapsulation and Dilithium for digital signatures, ensuring quantum-resistant PKI infrastructure.
 
 ## Check Out the Webpage to Learn More
 
