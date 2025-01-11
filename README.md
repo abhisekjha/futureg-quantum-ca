@@ -4,6 +4,7 @@ Next-generation (FutureG) networks will interconnect billions of IoT devices, de
 
 
 ![FutureG Network](images/no_of_experiments.png)
+![ost-Quantum Safe Simless TLS Architecture](simless.png)
 
 ## Steps to Run the Test
 
