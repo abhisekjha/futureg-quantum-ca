@@ -1,10 +1,8 @@
 # SIMLESS: Post-Quantum EAP-TLS Architecture for Scalable IoT in Next-Generation Networks
 
-Next-generation (FutureG) networks will interconnect billions of IoT devices, demanding scalability, reliability, and robust security against quantum threats. Conventional SIM-based protocols (e.g., EAP-AKA) are unsuitable for massive IoT due to complex provisioning and limited post-quantum readiness. This paper introduces a post-quantum EAP-TLS framework integrating Kyber and Dilithium cipher suites, edge-assisted computation, and decentralized certificate management to offload heavy cryptographic tasks from constrained devices. Experimental results show a 96.49\% reduction in handshake time, a 2033.13\% throughput improvement when offloading cryptographic operations to the edge, and efficient session resumption for reduced latency. These findings demonstrate that breaking the SIM barrier and leveraging edge-assisted PQC significantly enhances scalability and security, paving the way for unified, quantum-safe authentication in FutureG networks.
-
-
+![Post-Quantum Safe Simless TLS Architecture](simless.png)
 ![FutureG Network](images/no_of_experiments.png)
-![ost-Quantum Safe Simless TLS Architecture](simless.png)
+
 
 ## Steps to Run the Test
 
